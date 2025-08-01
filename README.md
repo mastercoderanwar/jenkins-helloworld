@@ -1,4 +1,4 @@
-## DevOps Project for Beginners   
+
 
 # DevOps Sample Project 🚀
 
@@ -16,4 +16,3 @@ This is a sample DevOps project demonstrating a basic CI/CD pipeline using Jenki
 
 ---
 
-## 📁 Project Structure
