@@ -1,3 +1,19 @@
 ## DevOps Project for Beginners   
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+# DevOps Sample Project 🚀
+
+This is a sample DevOps project demonstrating a basic CI/CD pipeline using Jenkins, Docker, and GitHub.
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Jenkins** – Continuous Integration / Continuous Delivery
+- **Docker** – Containerization
+- **GitHub** – Source Code Management
+- **Shell Scripts** – Automation
+- **Optional**: Kubernetes, Ansible, Terraform (for extensions)
+
+---
+
+## 📁 Project Structure
